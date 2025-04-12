@@ -3,7 +3,7 @@
         This repository contains a collection of Python scripts for performing various image processing tasks using OpenCV and Matplotlib. These scripts are designed to handle common image manipulation operations such as resizing, converting to grayscale, edge detection, and more.
 
         ## Features
-
+        ## Calsses.py
         1. **View Images in a Folder**: Display images one by one using OpenCV.
         2. **Resize Images**: Resize all images in a folder to a specified dimension.
         3. **Convert to Grayscale**: Convert images to grayscale and save them.
